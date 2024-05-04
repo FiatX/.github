@@ -33,7 +33,7 @@ Enter FiatX, an unstoppable onchain fiat on/off-ramp P2P protocol. FiatX is the 
 - The rest of the offramp dispute flow will be exactly similar with the onramp dispute flow.
 
 ## How it’s made
-To prevent Sybil games arising from user, merchant, or voter, we implement Worldcoin’s WorldID proofs to ensure that a pseudonymous address owner is part of Worldcoin’s Orb-verified humans before registering each address into our verifiedHumanAddrRegistry contract.
+To prevent Sybil games arising from market participants (user, merchant, voter), we implement Worldcoin’s WorldID proofs to ensure that a pseudonymous address owner is part of Worldcoin’s Orb-verified humans before registering each address into our verifiedHumanAddrRegistry contract.
 
 We leverage Chainlink VRF to generate a random set of 5 adjudicators out of FiatX’s adjudicator list (each adjudicator may be elected by governance and registered onchain).
 
