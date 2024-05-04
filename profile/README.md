@@ -7,6 +7,7 @@ Built with ❤️
 - bae jae kka [@BroJustKiddinn](https://twitter.com/BroJustKiddinn)
 
 *Link to organization: https://github.com/FiatX*
+*Link to [prototype]([url](https://www.figma.com/proto/3R50iekhx7heSsngNIl4sk/FiatX-v0?page-id=93%3A10&type=design&node-id=93-11&viewport=75%2C223%2C0.04&t=aU95BMLlMabchvtP-1&scaling=min-zoom&mode=design))*
 
 ## Description
 Crypto is now a trillion-dollar asset class. Billions of dollars of economic activity are facilitated by smart contracts deployed across various blockchain networks. For the two billion people living under autocratic regimes, crypto is the only unstoppable lifeline that allows them to take back control and have sovereignty over their wealth and finances. Crypto is the free world’s answer to the increasing encroachment of the traditional financial system.
