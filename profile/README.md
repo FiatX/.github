@@ -1,3 +1,3 @@
 ## FiatX
 
-FiatX is a decentralized onchain fiat P2P on/off-ramp.
+FiatX is a decentralized onchain P2P fiat on/off-ramp protocol.
