@@ -4,7 +4,7 @@ FiatX is an unstoppable onchain fiat on/off-ramp P2P protocol with decentralized
 Built with ❤️
 - D K [@delken_](https://twitter.com/delken_)
 - 0xVincent.eth [@0xvincent_eth](https://twitter.com/0xvincent_eth)
-- bae jae kka [@BroJustKiddinn](https://twitter.com/BroJustKiddinn)
+- bae jae kka [@0xbjk](https://twitter.com/0xbjk)
 
 *Link to organization: https://github.com/FiatX*
 
